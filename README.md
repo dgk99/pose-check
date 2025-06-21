@@ -8,8 +8,10 @@
 ## 프로젝트 개요
 개발자 : 김민규 (1인 프로젝트)
 구현 기간 : 2024.12 ~ 2025.04
-이용 기술 : Vue.js(Front-end), Express.js(Back-end)
-MediaPipe Pose(자세 분석 알고리즘), MySQL(데이터 베이스)
+이용 기술 : Vue.js(Front-end), 
+Express.js(Back-end)
+MediaPipe Pose(자세 분석 알고리즘), 
+MySQL(데이터 베이스)
 
 
 ## 주요 기능
